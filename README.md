@@ -4,7 +4,7 @@ demo: https://famimalin.github.io/todolist/
 
 用React製作的Todo List
 
-想試試PWA(Progressive Web App)，因此畫面將用App的形式來呈現
+想試試PWA(Progressive Web App)，因此畫面將用App的形式來呈現，因此用手機開啟體驗最佳
 
 目前功能有：
 
